@@ -1,4 +1,4 @@
-### Projects still pending
+Projects still pending
 # Costall
 [Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
 # Guardian News
