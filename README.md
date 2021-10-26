@@ -9,8 +9,8 @@
   Images
 </p>
 
-# Guardian News
-[Guardian News](https://github.com/TOLANY-LANNIE/Guardian-News-App)
+#  NewsApp
+[NewsApp](https://github.com/TOLANY-LANNIE/News-App)
 <p>
   App description
 </p>
