@@ -27,14 +27,4 @@
   Images
 </p>
 
-# RovaHotels
-[RovaHotels](https://github.com/TOLANY-LANNIE/Rova-Hotels-Booking-App)
-<p>
-  App description
-</p>
-<p>
-  Images
-</p>
-
-
 ## Thanks for stopping by!
