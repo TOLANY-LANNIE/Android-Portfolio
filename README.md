@@ -1,3 +1,7 @@
+<a href="#" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:cary@cmillerco.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/carymiller" target="_blank"><img src="https://img.shields.io/badge/linkedin-caryMiller-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+
+
 # Projects still pending
 
 # Costall
