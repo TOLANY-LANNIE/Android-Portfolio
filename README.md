@@ -1,9 +1,9 @@
 # Projects still pending
 
 #  NewsApp
-[NewsApp](https://github.com/TOLANY-LANNIE/News-App)
 
 ### App description
+[NewsApp](https://github.com/TOLANY-LANNIE/News-App)
 
 ### Features
    - Retrofit
@@ -12,6 +12,8 @@
    - MVVM Architecture
    - ViewBinding
    - Search 
+   
+### Screenshots
 
 ### Contributors
 This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
