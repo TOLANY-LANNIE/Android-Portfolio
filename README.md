@@ -26,13 +26,9 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 # NetoMovies
 
 ### App description
-
-[NetoMovies](https://github.com/TOLANY-LANNIE/Guardian-News-App)
-
-
 ### Features
 ### Contributors
-This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
+
 
 # IB Quiz App
 
