@@ -1,7 +1,7 @@
 # Projects still pending
 
-# Costall
-[Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
+#  NewsApp
+[NewsApp](https://github.com/TOLANY-LANNIE/News-App)
 <p>
   App description
 </p>
@@ -15,13 +15,19 @@
   Contributors
 </p>
 
-#  NewsApp
-[NewsApp](https://github.com/TOLANY-LANNIE/News-App)
+# Costall
+[Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
 <p>
   App description
 </p>
 <p>
   Images
+</p>
+<p>
+  Features
+</p>
+<p>
+  Contributors
 </p>
 
 # NetoMovies
