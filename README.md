@@ -34,7 +34,17 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 ### Contributors
 This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
+# IB Quiz App
 
+### App description
+### Features
+### Contributors
+
+# VoiceRecorder App
+
+### App description
+### Features
+### Contributors
 
 # Costall
 ### App description
