@@ -47,4 +47,5 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 ### Contributors
 
 
-## Thanks for stopping by!
+
+# Thanks for stopping by!
