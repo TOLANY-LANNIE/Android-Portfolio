@@ -2,21 +2,18 @@
 
 #  NewsApp
 [NewsApp](https://github.com/TOLANY-LANNIE/News-App)
-<p>
-  App description
-</p>
-<p>
-  Images
-</p>
+
+### App description
+
 ### Features
    - Retrofit
    - ROOM, View, ViewModel, LiveData
    - News Api (https://newsapi.org/)
    - MVVM Architecture
    - Material.io
-<p>
-  ###Contributors
-</p>
+
+### Contributors
+
 
 # Costall
 [Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
