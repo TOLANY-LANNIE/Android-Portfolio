@@ -19,33 +19,28 @@
    - Search
    - Pagination 
    
-### Screenshots
 
 ### Contributors
 This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
-# Costall
-[Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
-<p>
-  App description
-</p>
-<p>
-  Images
-</p>
-<p>
-  Features
-</p>
-<p>
-  Contributors
-</p>
-
 # NetoMovies
+
+### App description
+
 [NetoMovies](https://github.com/TOLANY-LANNIE/Guardian-News-App)
-<p>
-  App description
-</p>
-<p>
-  Images
-</p>
+
+
+### Features
+### Contributors
+This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
+
+
+
+# Costall
+### App description
+[Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
+### Features
+### Contributors
+
 
 ## Thanks for stopping by!
