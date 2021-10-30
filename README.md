@@ -8,14 +8,12 @@
 <p>
   Images
 </p>
-<p>
-  ###Features
+### Features
    - Retrofit
    - ROOM, View, ViewModel, LiveData
    - News Api (https://newsapi.org/)
    - MVVM Architecture
    - Material.io
-</p>
 <p>
   ###Contributors
 </p>
