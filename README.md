@@ -7,13 +7,14 @@
 
 ### Features
    - Retrofit
-   - ROOM, View, ViewModel, LiveData
-   - News Api (https://newsapi.org/)
+   - ROOM
+   - [News Api](https://newsapi.org)
    - MVVM Architecture
-   - Material.io
+   - ViewBinding
+   - Search 
 
 ### Contributors
-
+This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
 # Costall
 [Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
