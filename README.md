@@ -40,7 +40,7 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 ### Features
 ### Contributors
 
-# Costall
+# Costall V2
 ### App description
 [Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
 ### Features
