@@ -8,6 +8,12 @@
 <p>
   Images
 </p>
+<p>
+  Features
+</p>
+<p>
+  Contributors
+</p>
 
 #  NewsApp
 [NewsApp](https://github.com/TOLANY-LANNIE/News-App)
