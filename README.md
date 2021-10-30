@@ -1,5 +1,3 @@
-# Projects still pending
-
 #  NewsApp
 
 ### App description
