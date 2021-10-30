@@ -8,9 +8,11 @@
 ### Features
    - Retrofit
    - ROOM
+   - Coroutines
    - [News Api](https://newsapi.org)
    - MVVM Architecture
    - ViewBinding
+   - Navigation Components
    - Search 
    
 ### Screenshots
