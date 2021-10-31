@@ -31,14 +31,13 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
  - Allow user to view their assignment meeting action items
 
 ### Upcoming updates
- - The entire code with to converted to Kotlin in the second version on the application
+ - The entire codebase will be converted to Kotlin in the second version on the application
  - Volley library will be replaced with Retrofit
  - The application with implement MVVM architecture in the updated version
  - It will also use ROOM for caching in the mobile device
 
 ### Contributors
 This application was made and is maintained by [Jessica Massango](https://github.com/Jessie116), [Tokelo Foso](https://github.com/slickster23), [Nolly Sasha](https://github.com/nsnko3),[Amukelani Paris](https://github.com/AmukelaniParis) & [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
-
 
 # DarkRoom
 
