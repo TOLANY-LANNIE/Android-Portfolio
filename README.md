@@ -13,7 +13,7 @@
    - [News Api](https://newsapi.org)
    - MVVM Architecture
    - ViewBinding
-   - Navigation Components
+   - Navigation Component
    - Search
    - Pagination 
    
