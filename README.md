@@ -40,7 +40,7 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 ### Contributors
 This application was made and is maintained by [Jessica Massango](https://github.com/Jessie116), [Tokelo Foso](https://github.com/slickster23), [Nolly Sasha](https://github.com/nsnko3),[Amukelani Paris](https://github.com/AmukelaniParis) & [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
-# DarkRoom
+# DarkRoom (Pending)
 
 ### App description
 [DarkRoom](https://github.com/TOLANY-LANNIE/DarkRoom)
@@ -48,19 +48,19 @@ This application was made and is maintained by [Jessica Massango](https://github
 ### Contributors
 
 
-# IB Quiz App
+# IB Quiz App (Pending)
 
 ### App description
 ### Features
 ### Contributors
 
-# VoiceRecorder App
+# VoiceRecorder App (Pending)
 
 ### App description
 ### Features
 ### Contributors
 
-# Costall V2
+# Costall V2 (Pending)
 ### App description
 [Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
 ### Features
