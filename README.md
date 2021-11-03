@@ -16,7 +16,10 @@
    - ViewBinding
    - Navigation Component
    - Search
-   - Pagination 
+   - Pagination
+   - Fragments
+   - RecyclerView
+   - Webview
    
 
 ### Contributors
