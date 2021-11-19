@@ -43,6 +43,8 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 ### Contributors
 This application was made and is maintained by [Jessica Massango](https://github.com/Jessie116), [Tokelo Foso](https://github.com/slickster23), [Nolly Sasha](https://github.com/nsnko3),[Amukelani Paris](https://github.com/AmukelaniParis) & [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
+# The following projects are on pause, as I am currently preparing for my exams!
+
 # DarkRoom (Pending)
 
 ### App description
