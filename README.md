@@ -44,13 +44,23 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 This application was made and is maintained by [Jessica Massango](https://github.com/Jessie116), [Tokelo Foso](https://github.com/slickster23), [Nolly Sasha](https://github.com/nsnko3),[Amukelani Paris](https://github.com/AmukelaniParis) & [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
 
-# DarkRoom (Pending)
+# MovieRoom (Pending)
 
 ### App description
-[DarkRoom](https://github.com/TOLANY-LANNIE/DarkRoom)
-### Features
-### Contributors
+[MovieRoom](https://github.com/TOLANY-LANNIE/MovieRoom)is a simple android app that uses a public [theMovieDB](https://www.themoviedb.org/documentation/api) to display details about trending movies and tv shows.
 
+### Features
+   - Retrofit
+   - ROOM
+   - Coroutines
+   - [theMovieDB](https://www.themoviedb.org/documentation/api)
+   - MVVM Architecture
+   - ViewBinding
+   - Navigation Component
+   - Pagination
+    
+### Contributors
+This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
 # IB Quiz App (Pending)
 
