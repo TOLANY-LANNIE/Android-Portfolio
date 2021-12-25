@@ -44,7 +44,7 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 This application was made and is maintained by [Jessica Massango](https://github.com/Jessie116), [Tokelo Foso](https://github.com/slickster23), [Nolly Sasha](https://github.com/nsnko3),[Amukelani Paris](https://github.com/AmukelaniParis) & [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
 
-# MovieRoom
+# MovieRoom (in progress)
 
 ### App description
 [MovieRoom](https://github.com/TOLANY-LANNIE/MovieRoom) is a simple android app that uses [theMovieDB](https://www.themoviedb.org/documentation/api) a public api to display details about trending movies and tv shows.
