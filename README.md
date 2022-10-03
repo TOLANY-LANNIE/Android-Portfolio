@@ -62,18 +62,6 @@ This application was made and is maintained by [Jessica Massango](https://github
 ### Contributors
 This application was made and is maintained by [Thulani Mpofu](https://github.com/TOLANY-LANNIE)
 
-# IB Quiz App (Pending)
-
-### App description
-### Features
-### Contributors
-
-# VoiceRecorder App (Pending)
-
-### App description
-### Features
-### Contributors
-
 # Qualio (In-progress)
 ### App description
 [Qualio]()
