@@ -74,11 +74,11 @@ This application was made and is maintained by [Thulani Mpofu](https://github.co
 ### Features
 ### Contributors
 
-# Costall V2 (Pending)
+# Qualio (In-progress)
 ### App description
-[Costall](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-App)
+[Qualio]()
 ### Features
- - [Rest Api](https://github.com/TOLANY-LANNIE/Costall-Meeting-Ledger-REST-API)
+ 
 ### Contributors
 
 
